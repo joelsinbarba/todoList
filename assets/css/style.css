@@ -1,0 +1,23 @@
+body{
+    background: #f8c985;
+}
+
+li:hover{
+    background-color: gray;
+}
+
+.collection{
+    border: transparent;
+}
+#list a{
+    width: 80%;
+    margin: auto;   
+    border-color: transparent; 
+}
+#list a:hover{
+    text-decoration: line-through;
+}
+
+.titlee {
+    position: relative;
+}
